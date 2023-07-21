@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niladri2002&label=Profile%20views&color=0e75b6&style=flat" alt="niladri2002" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Java, Python**
+- 🌱 I’m currently learning **Blockchain,Machine Learning**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/niladri-sadhu-251a0b22a](www.linkedin.com/in/niladri-sadhu-251a0b22a)
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++,Python,Javascript,Java**
 
 - 📫 How to reach me **niladri.sadhu2002@gmail.com**
 
