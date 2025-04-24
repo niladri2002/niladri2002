@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain,Machine Learning**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/niladri-sadhu-251a0b22a](www.linkedin.com/in/niladri-sadhu-251a0b22a)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/niladri-sadhu-251a0b22a](www.linkedin.com/in/niladri-sadhu-)
 
 - 💬 Ask me about **C, C++,Python,Javascript,Java**
 
@@ -17,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/niladri sadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niladri sadhu" height="30" width="40" /></a>
-<a href="https://fb.com/niladri sadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niladri sadhu" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_sadhu_64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_sadhu_64" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anime whiskers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anime whiskers" height="30" width="40" /></a>
+
+
+
 <a href="https://www.codechef.com/users/niladri_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="niladri_2002" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/niladri_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="niladri_2002" height="30" width="40" /></a>
 </p>
